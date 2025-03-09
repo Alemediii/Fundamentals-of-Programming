@@ -1,0 +1,2 @@
+D DS) і спрощеної служби каталогів AD LDS належать оснастки та засоби командного рядка для віддаленого керування службами AD DS та AD LDS у Windows Server." />
+      <string language="zh-CN" displayName="RSAT: Active Directory 域服务和轻型目录服务工具" description="Active Directory 域服务(AD DS)和 Active
