@@ -1,7 +1,19 @@
-# Fundamentals of programming
-My first year of programming with C++
-The folder divides into college tasks [programmingfordegree folder], and the practices for the exams [exampractices].
+# My First Year of Programming with C++
 
-[programmingfordegree folder] -> it has practice tasks and class theory
+This repository contains all my programming work from my first year, divided into **college tasks** and **exam practices**.
 
-[exampractices] -> it is composed of each partial and some example of the finals solved by me
+## 📂 Folder Structure
+
+### **📁 programmingfordegree**
+- Contains **practice tasks** and **class theory**.
+- Includes various exercises and programming assignments related to the course.
+
+### **📁 examsPractice**
+- Organized by **partials**, with examples of **final exams** solved by me.
+- Includes problems and solutions to prepare for assessments.
+
+## 🖥️ Technologies Used
+- **C++** for problem-solving and algorithm development.
+- **VsCode** for code and programmes come up.
+
+This repository serves as a structured way to track my progress in programming! 🚀
